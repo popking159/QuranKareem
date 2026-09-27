@@ -1,4 +1,5 @@
 #!/bin/sh
+# wget -qO - https://raw.githubusercontent.com/popking159/QuranKareem/refs/heads/main/myinstaller.sh | /bin/sh
 # =========================================================================
 # QuranKareem Auto-Installer / Updater
 # Architecture-Aware and Python-Aware Downloader
